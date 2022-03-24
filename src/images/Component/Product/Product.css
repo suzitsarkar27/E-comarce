@@ -1,0 +1,13 @@
+.Product-containers img {
+  height: 286px;
+  width: 286px;
+  border-radius: 8px;
+  padding: 8px;
+}
+.Product-containers {
+  height: 508px;
+  width: 300px;
+  border: 1px solid #95a0a7;
+  box-sizing: border-box;
+  border-radius: 8px;
+}
